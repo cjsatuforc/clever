@@ -1,6 +1,6 @@
 /*
  * Optical Flow node for PX4
- * Copyright (C) 2018 Copter Express Technologies
+ * Copyright © 2018 Copter Express Technologies
  *
  * Author: Oleg Kalachev <okalachev@gmail.com>
  *

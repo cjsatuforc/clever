@@ -1,6 +1,6 @@
 /*
  * Visualization marker for camera alignment
- * Copyright (C) 2018 Copter Express Technologies
+ * Copyright © 2018 Copter Express Technologies
  *
  * Author: Oleg Kalachev <okalachev@gmail.com>
  *
